@@ -19,15 +19,14 @@ Bot = Client(
 
 START_TEXT = """Hello {}
 I am a google search bot.
+`I can search anything from google just tag me and type what you want to search for i will give you the results. Use me in inline.`
 
-> `I can search from google. Use me in inline.`
-
-Made by @FayasNoushad"""
+Made by @Techyy_TechyHarsith"""
 
 JOIN_BUTTON = [
     InlineKeyboardButton(
         text='⚙ Join Updates Channel ⚙',
-        url='https://telegram.me/FayasNoushad'
+        url='https://t.me/TechuuRaV2'
     )
 ]
 
